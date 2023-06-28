@@ -79,3 +79,17 @@ TEST_CASE("Test updateUserProgress function") {
     // Close the database
     sqlite3_close(db);
 }
+
+TEST_CASE("is_number - Negative Test Cases") {
+    // Test case where the input string is empty
+    SUBCASE("Empty string") {
+        CHECK_FALSE(is_number(""));
+    }
+
+    // Test case where the input string contains non-digit characters
+    SUBCASE("Non-digit characters") {
+        CHECK_FALSE(is_number("123a"));
+        CHECK_FALSE(is_number("abc"));
+        CHECK_FALSE(is_number("12.34"));
+    }
+}
