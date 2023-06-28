@@ -1,7 +1,6 @@
 #include "tgbot.cpp"
 
 int main() {
-    //system("chcp 1251>nul");
     TgBot::Bot bot("6088590421:AAEIykS59B6S3lB3R6E2vOdJEGHaGKYX3zg");
 
     sqlite3* db;
