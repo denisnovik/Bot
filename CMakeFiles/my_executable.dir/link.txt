@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_executable.dir/tgbot.cpp.o -o my_executable  /path/to/libsqlite3.a 

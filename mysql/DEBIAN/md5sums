@@ -1,0 +1,8 @@
+1b59b844ec0fd9e72d0229196626012f  usr/lib/x86_64-linux-gnu/libmysqlcppconn.so.9.8.0.33
+4d322f4077f37453763e22542d7c0c6c  usr/share/doc/libmysqlcppconn9/INFO_BIN
+53dafde0dd159be97b9f151c48656a7b  usr/share/doc/libmysqlcppconn9/INFO_SRC
+abd07ce41d1a2a91481dda6a6b64a7e4  usr/share/doc/libmysqlcppconn9/LICENSE.txt.gz
+146c951a19e78cc54dcac7b18bb13048  usr/share/doc/libmysqlcppconn9/README.txt
+49d97cc32f900b356447559d2b550df5  usr/share/doc/libmysqlcppconn9/changelog.Debian.gz
+6cd6f8a23b9f3d000385a566c22fefb7  usr/share/doc/libmysqlcppconn9/copyright
+ddc92eaea29713c8119aba65c4b10cc0  usr/share/lintian/overrides/libmysqlcppconn9

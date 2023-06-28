@@ -1,0 +1,3 @@
+/home/bot/Desktop/Bot/CMakeFiles/my_executable.dir
+/home/bot/Desktop/Bot/CMakeFiles/edit_cache.dir
+/home/bot/Desktop/Bot/CMakeFiles/rebuild_cache.dir
